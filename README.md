@@ -1,6 +1,6 @@
 # AOchroma
 
-AOchroma is a utility program intended to help Anarchy Online players in order to colourize their chat text easily.
+AOchroma is a utility program intended to help Anarchy Online players colourize their chat text easily.
 
 ## Motivation
 
